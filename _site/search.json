@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hritik Shukla",
+    "section": "",
+    "text": "Hi! I am a fourth year Computer Science Major at University of Toronto."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#hi",
+    "href": "index.html#hi",
+    "title": "Hritik Shukla",
+    "section": "",
+    "text": "I am Hritik, a fourth year Computer Science major at University of Toronto.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hritik Shukla",
+    "section": "",
+    "text": "Hi! I am a fourth year Computer Science Major at University of Toronto."
+  }
+]

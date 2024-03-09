@@ -1,0 +1,17 @@
+## Hi There!
+
+::: {#bio-container .container style="display: flex"}
+::: {#bio-text .container-child style="flex: 1;   display: flex; align-items: center; justify-content: center; flex-direction: column"}
+I am a fourth year Computer Science Major at University of Toronto with a passion for coding and music.
+
+When I'm not debugging code, you can catch me spinning [Daft Punk](https://www.youtube.com/watch?v=IluRBvnYMoY) records! Let's connect over our shared love for music and technology!
+
+You can contact me on my socials above, or view my resume [here](resources/resume.pdf){style="size: 50%" width="17%"}.
+:::
+
+::: {#bio-img .container-child style="flex: 1;   display: flex; align-items: center; justify-content: center; padding:5%"}
+![](resources/headshot.jpg){style="border-radius: 50%;" width="85%"}
+:::
+:::
+
+

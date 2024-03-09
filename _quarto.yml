@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - resume.pdf
+
+website:
+  title: "Hritik Shukla"
+  navbar:
+    right:
+      - href: "https://www.linkedin.com/in/hritikshuklas/"
+        text: LinkedIn
+      - href: "https://github.com/hritikshuklas"
+        text: GitHub
+  body-footer: "<a style='font-size: 8px; text-decoration: none;' href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'> DO NOT CLICK </a>"
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: false
+
+editor: visual
+
